@@ -2,6 +2,9 @@
 ![img](https://github.com/eriklisboa1/CrudJS/blob/main/pngegg%20(2).png)
 
 - ADICIONA E ARRUMAR MAIS O FRONT [  ]
+  - TRATAR O QUE TIVER, EX:
+  - CPF SEJA RESTRINTO E OS CARACTERE MAXIMO DE CPF
+  - NA PARTE DE NOME PEDIR NOME E SOBRENOME
 
 - ALTERAR IDEIA CENTRAL DO SITE [ ]
 
