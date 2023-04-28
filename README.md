@@ -1,5 +1,7 @@
 # Cadastro de pessoa
-![img](https://github.com/eriklisboa1/CrudJS/blob/main/pngegg%20(2).png)
+![WORK IN PROGRESS](https://github.com/eriklisboa1/CrudJS/blob/main/pngegg%20(2).png)
+>Estamos trabalhando para mais funcionalidade voce pode ver oque iremos fazer: https://github.com/eriklisboa1/CrudJS/blob/main/READMETASK.md
+
 >Este site é um site de cadastro de pessoa, fiz com a inteção de aperfeiçoar meu conhecimento na linguagem JS;
 
 >Nele voce pode adicionar, ver, editar, excluir uma pessoa;
